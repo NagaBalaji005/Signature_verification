@@ -51,4 +51,4 @@ The model achieves high accuracy in distinguishing genuine and forged signatures
 
 ## Author
 
-Developed by Balaji 
+Developed by Naga Balaji 
